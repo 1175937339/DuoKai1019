@@ -1,0 +1,10 @@
+EXPORTS
+   SetCB
+   getWeChatVersion
+   InjectWeChatPid
+   InjectWeChat_S
+   InjectWeChat
+   ContentUseUtf8
+   sendHpSocketData
+   closeWeChat
+   openWechatMutexTwo
